@@ -1073,3 +1073,23 @@ a:hover
     color: #000;
     border-bottom: 1px solid #111;
 }
+
+.containerMsg{
+    background-color: #ffffff;
+    padding: 50px 15px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    border-radius: 75px;
+    margin: 100px auto;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+}
+
+.containerMsg h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
