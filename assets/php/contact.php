@@ -1,5 +1,10 @@
 <?php
 
+
+$name = $_POST['name']
+$email =$_POST['email']
+
+
 // ENTER YOUR EMAIL
 $emailTo = "gdanny.garcia@gmail.com";
 
